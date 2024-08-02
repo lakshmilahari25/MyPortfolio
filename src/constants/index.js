@@ -134,7 +134,7 @@ const experiences = [
     ],
   },
   {
-    title: "Business Technology Analyst",
+    title: "Software Engineer 1",
     company_name: "Deloitte",
     icon: del,
     iconBg: "#383E56",
@@ -149,7 +149,7 @@ const experiences = [
     ],
   },
   {
-    title: "Data Engineer Intern",
+    title: "Software Engineer Intern",
     company_name: "Techolution",
     icon: techo,
     iconBg: "#E6DEDD",
