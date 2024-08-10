@@ -19,8 +19,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           "I am a passionate Software Engineer , <br className='sm:block hidden' />
-          actively seeking internships in software development, full stack development, and web development to further enhance my skills and contribute to innovative projects.
-          </p>
+          actively seeking internships and full-time roles in software development, full-stack development, and web development to further enhance my skills and contribute to innovative projects." </p>
           {/* Add icons and button here */}
           <div className="flex flex-col items-center mt-8 space-y-6">
             <div className="flex space-x-12">

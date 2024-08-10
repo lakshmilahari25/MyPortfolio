@@ -47,7 +47,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-       Aspiring software engineer currently pursuing a Master’s degree in Computer Science, with 1.5 years of hands-on experience in Full-Stack development, Distributed Systems, Microservices, and REST APIs. Adept at solving complex problems and building scalable, high-performance applications Proven ability to design and implement efficient software solutions, collaborate seamlessly with cross-functional teams, and continuously enhance code quality and performance! </motion.p>
+      Software engineer currently pursuing a Master’s degree in Computer Science,
+      with hands-on experience in Full-Stack development, Distributed Systems, Microservices, and REST APIs. Adept at solving complex problems and building scalable, high-performance applications Proven ability to design and implement efficient software solutions, collaborate seamlessly with cross-functional teams, and continuously enhance code quality and performance! </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
