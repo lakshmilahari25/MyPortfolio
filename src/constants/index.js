@@ -103,14 +103,14 @@ const technologies = {
     college_name: "GEORGIA STATE UNIVERSITY",
     degree: "Master of Science in Computer Science",
     date: "Jan 2024 - Present",
-    gpa: "3.97/4.3",
+    gpa: "3.97",
     description: "Full fee waiver along with GRA.",
   },
   {
     college_name: "V R SIDDHARTHA ENGINEERING COLLEGE",
     degree: "Bachelor of Technology in Computer Science",
     date: "June 2019 - May 2023",
-    gpa: "8.96/10.0",
+    gpa: "3.6",
     description: "Full fee waiver.",
   },
   // Add more education entries here
@@ -138,7 +138,7 @@ const experiences = [
     company_name: "Deloitte",
     icon: del,
     iconBg: "#383E56",
-    date: "Aug 2023 - Dec 2023",
+    date: "Jun 2022 - Dec 2023",
     points: [
       
 
@@ -150,10 +150,10 @@ const experiences = [
   },
   {
     title: "Software Engineer Intern",
-    company_name: "Techolution",
-    icon: techo,
+    company_name: "Deloitte",
+    icon: del,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - May 2023",
+    date: "Jan 2022 - Jun 2022",
     points: [
       
 
