@@ -138,7 +138,7 @@ const experiences = [
     company_name: "Deloitte",
     icon: del,
     iconBg: "#383E56",
-    date: "Jun 2022 - Dec 2023",
+    date: "Aug 2023 - Dec 2023",
     points: [
       
 
@@ -150,10 +150,10 @@ const experiences = [
   },
   {
     title: "Software Engineer Intern",
-    company_name: "Deloitte",
-    icon: del,
+    company_name: "Techolution",
+    icon: techo,
     iconBg: "#E6DEDD",
-    date: "Jan 2022 - Jun 2022",
+    date: "Jan 2023 - Jun 2023",
     points: [
       
 
