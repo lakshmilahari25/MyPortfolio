@@ -103,7 +103,7 @@ const technologies = {
     college_name: "GEORGIA STATE UNIVERSITY",
     degree: "Master of Science in Computer Science",
     date: "Jan 2024 - Present",
-    gpa: "3.97",
+    gpa: "4.0",
     description: "Full fee waiver along with GRA.",
   },
   {
@@ -134,11 +134,28 @@ const experiences = [
     ],
   },
   {
+    title: "SDE Intern",
+    company_name: "Amazon",
+    icon: techo,
+    iconBg: "#383E56",
+    date: "May 2025 - Aug 2025",
+    points: [
+    "Architected and built an automated agent evaluation framework for LLM-based conversational agents. Reduced manual testing effort by 70%, enabling faster validation across multiple models.",
+    
+    "Implemented LLM-as-a-judge response validation, multi-turn conversation support, and backend call validation, replacing manual QA. Enabled teams to run over 1000 tests per day with consistent quality assessment.",
+    
+    "Integrated test workflows into CI/CD pipelines, enabling pre-RedTeaming, model migration validation, and prompt tuning regression testing. Reduced deployment bottlenecks and improved feedback cycles by 50%.",
+    
+    "Developed configurable evaluation workflows and automated reporting hooks, enabling 1,000+ automated test reports per day and establishing a reliable quality gate for consistent agent deployments."
+],
+
+  },
+  {
     title: "Software Engineer 1",
     company_name: "Deloitte",
     icon: del,
     iconBg: "#383E56",
-    date: "Aug 2023 - Dec 2023",
+    date: "Jun 2022 - Dec 2023",
     points: [
       
 
@@ -150,10 +167,10 @@ const experiences = [
   },
   {
     title: "Software Engineer Intern",
-    company_name: "Techolution",
-    icon: techo,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Jun 2023",
+    company_name: "Deloitte",
+    icon: del,
+    iconBg: "#383E56",
+    date: "Jan 2022 - Jun 2022",
     points: [
       
 

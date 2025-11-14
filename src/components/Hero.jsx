@@ -52,13 +52,8 @@ const Hero = () => {
                 </svg>
               </a>
             </div>
-            <a
-              href="/resume.pdf" // Update this path to the location of your resume.pdf
-              download="resume.pdf"
-              className="bg-[#915EFF] text-white px-6 py-2 rounded-lg hover:bg-[#6e5494] transition-colors duration-300 mt-8"
-            >
-              Download Resume
-            </a>
+            
+              
           </div>
         </div>
       </div>
